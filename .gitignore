@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+*.pdb
+Presentation/Nop.Web/Plugins/*.dll
+Presentation/Nop.Web/wwwroot/images
