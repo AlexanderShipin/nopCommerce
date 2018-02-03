@@ -2,6 +2,8 @@
 bin
 obj
 *.pdb
-Presentation/Nop.Web/Plugins/*.dll
-Presentation/Nop.Web/wwwroot/images
-Presentation/Nop.Web/App_Data
+Presentation/Nop.Web/Plugins/**/*.dll
+Presentation/Nop.Web/wwwroot/images/thumbs
+Presentation/Nop.Web/App_Data/installedPlugins.json
+Presentation/Nop.Web/App_Data/dataSettings.json
+Presentation/Nop.Web/App_Data/DataProtectionKeys/key-6e50a4fd-563d-4998-8a90-af20aa785262.xml
