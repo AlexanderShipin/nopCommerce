@@ -4,3 +4,4 @@ obj
 *.pdb
 Presentation/Nop.Web/Plugins/*.dll
 Presentation/Nop.Web/wwwroot/images
+Presentation/Nop.Web/App_Data

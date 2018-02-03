@@ -2964,6 +2964,12 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.UseMultipleWarehouses.Hint">
     <Value>Check if you want to support shipping and inventory management from multiple warehouses.</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author">
+    <Value>Author</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Author.Hint">
+    <Value>The author of the book.</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.Name">
     <Value>Product name</Value>
   </LocaleResource>
